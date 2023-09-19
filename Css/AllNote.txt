@@ -1,0 +1,1 @@
+style="overflow-wrap: break-word;" # chữ tự động xuống dòng khi không đủ chiều rộng

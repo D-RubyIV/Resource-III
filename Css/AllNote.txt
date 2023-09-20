@@ -1,1 +1,7 @@
 style="overflow-wrap: break-word;" # chữ tự động xuống dòng khi không đủ chiều rộng
+
+Căn giữa:
+    display: flex; /* Sử dụng display: flex để căn giữa theo chiều dọc và ngang */
+    flex-direction: column; /* Đặt flex-direction thành column để căn giữa the các phần tử dọc */
+    justify-content: center; /* Căn giữa theo chiều dọc */
+    align-items: center; /* Căn giữa theo chiều ngang */

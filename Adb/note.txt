@@ -1,0 +1,1 @@
+Structure emulator: adb shell getprop ro.product.cpu.abi (x86, x86_64)
